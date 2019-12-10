@@ -1,0 +1,221 @@
+1 Aguascalientes 1
+2 Asientos 1
+3 Calvillo 1
+4 Cos›o 1
+5 Jes∑s Mar›a 1
+6 Pabellæn de Arteaga 1
+7 Rincæn de Romos 1
+8 San Jos⁄ de Gracia 1
+9 Tepezalﬂ 1
+10 El Llano 1
+11 San Francisco de los Romo 1
+12 Ensenada 2
+13 Mexicali 2
+14 Tecate 2
+15 Tijuana 2
+16 Playas de Rosarito 2
+17 Comond∑ 3
+18 Muleg⁄ 3
+19 La Paz 3
+20 Los Cabos 3
+21 Loreto 3
+22 Armer›a 6
+23 Colima 6
+24 Comala 6
+25 Coquimatlﬂn 6
+26 Cuauht⁄moc 6
+27 Ixtlahuacﬂn 6
+28 Manzanillo 6
+29 Minatitlﬂn 6
+30 Tecomﬂn 6
+31 Villa de ?lvarez 6
+32 Azcapotzalco 9
+33 Coyoacﬂn 9
+34 Cuajimalpa de Morelos 9
+35 Gustavo A. Madero 9
+36 Iztacalco 9
+37 Iztapalapa 9
+38 La Magdalena Contreras 9
+39 Milpa Alta 9
+40 ?lvaro Obregæn 9
+41 Tlﬂhuac 9
+42 Tlalpan 9
+43 Xochimilco 9
+44 Benito Juﬂrez 9
+45 Cuauht⁄moc 9
+46 Miguel Hidalgo 9
+47 Venustiano Carranza 9
+48 Abasolo 11
+49 Acﬂmbaro 11
+50 San Miguel de Allende 11
+51 Apaseo el Alto 11
+52 Apaseo el Grande 11
+53 Atarjea 11
+54 Celaya 11
+55 Manuel Doblado 11
+56 Acatic 13
+57 Acatlﬂn de Juﬂrez 13
+58 Ahualulco de Mercado 13
+59 Amacueca 13
+60 Amatitﬂn 13
+61 Ameca 13
+62 San Juanito de Escobedo 13
+63 Arandas 13
+64 El Arenal 13
+65 Atemajac de Brizuela 13
+66 Atengo 13
+67 Acambay de Ru›z Casta±eda 15
+68 Acolman 15
+69 Aculco 15
+70 Almoloya de Alquisiras 15
+71 Almoloya de Juﬂrez 15
+72 Almoloya del R›o 15
+73 Amanalco 15
+74 Amatepec 15
+75 Amecameca 15
+76 Apaxco 15
+77 Atenco 15
+78 Atizapﬂn 15
+79 Atizapﬂn de Zaragoza 15
+80 Atlacomulco 15
+81 Atlautla 15
+82 Axapusco 15
+83 Ayapango 15
+84 Calimaya 15
+85 Capulhuac 15
+86 Amacuzac 17
+87 Atlatlahucan 17
+88 Axochiapan 17
+89 Ayala 17
+90 Coatlﬂn del R›o 17
+91 Cuautla 17
+92 Cuernavaca 17
+93 Emiliano Zapata 17
+94 Huitzilac 17
+95 Jantetelco 17
+96 Jiutepec 17
+97 Jojutla 17
+98 Jonacatepec 17
+99 Abasolo 19
+100 Agualeguas 19
+101 Los Aldamas 19
+102 Allende 19
+103 Anﬂhuac 19
+104 Apodaca 19
+105 Aramberri 19
+106 Bustamante 19
+107 Cadereyta Jim⁄nez 19
+108 El Carmen 19
+109 Cerralvo 19
+110 Ci⁄nega de Flores 19
+111 China 19
+112 Doctor Arroyo 19
+113 Doctor Coss 19
+114 Doctor Gonzﬂlez 19
+115 Galeana 19
+116 Garc›a 19
+117 San Pedro Garza Garc›a 19
+118 General Bravo 19
+119 General Escobedo 19
+120 General Terﬂn 19
+121 General Trevi±o 19
+122 General Zaragoza 19
+123 General Zuazua 19
+124 Guadalupe 19
+125 Los Herreras 19
+126 Higueras 19
+127 Hualahuises 19
+128 Iturbide 19
+129 Juﬂrez 19
+130 Lampazos de Naranjo 19
+131 Linares 19
+132 Mar›n 19
+133 Melchor Ocampo 19
+134 Mier y Noriega 19
+135 Mina 19
+136 Montemorelos 19
+137 Monterrey 19
+138 Parﬂs 19
+139 Pesquer›a 19
+140 Los Ramones 19
+141 Rayones 19
+142 Sabinas Hidalgo 19
+143 Salinas Victoria 19
+144 San Nicolﬂs de los Garza 19
+145 Hidalgo 19
+146 Santa Catarina 19
+147 Santiago 19
+148 Vallecillo 19
+149 Villaldama 19
+150 Cozumel 23
+151 Felipe Carrillo Puerto 23
+152 Isla Mujeres 23
+153 Othæn P. Blanco 23
+154 Benito Juﬂrez 23
+155 Jos⁄ Mar›a Morelos 23
+156 Lﬂzaro Cﬂrdenas 23
+157 Solidaridad 23
+158 Tulum 23
+159 Bacalar 23
+160 Ahome 25
+161 Angostura 25
+162 Badiraguato 25
+163 Concordia 25
+164 Cosalﬂ 25
+165 Culiacﬂn 25
+166 Choix 25
+167 Elota 25
+168 Escuinapa 25
+169 El Fuerte 25
+170 Guasave 25
+171 Mazatlﬂn 25
+172 Mocorito 25
+173 Rosario 25
+174 Salvador Alvarado 25
+175 San Ignacio 25
+176 Sinaloa 25
+177 Navolato 25
+178 Balancﬂn 27
+179 Cﬂrdenas 27
+180 Centla 27
+181 Centro 27
+182 Comalcalco 27
+183 Cunduacﬂn 27
+184 Emiliano Zapata 27
+185 Huimanguillo 27
+186 Jalapa 27
+187 Jalpa de M⁄ndez 27
+188 Jonuta 27
+189 Macuspana 27
+190 Nacajuca 27
+191 Para›so 27
+192 Tacotalpa 27
+193 Teapa 27
+194 Tenosique 27
+195 Acajete 30
+196 Acatlﬂn 30
+197 Acayucan 30
+198 Actopan 30
+199 Acula 30
+200 Acultzingo 30
+201 Camaræn de Tejeda 30
+202 Alpatlﬂhuac 30
+203 Alto Lucero de Guti⁄rrez Barrios 30
+204 Altotonga 30
+205 Alvarado 30
+206 Amatitlﬂn 30
+207 Naranjos Amatlﬂn 30
+208 Amatlﬂn de los Reyes 30
+209 Apozol 32
+210 Apulco 32
+211 Atolinga 32
+212 Benito Juﬂrez 32
+213 Calera 32
+214 Ca±itas de Felipe Pescador 32
+215 Concepciæn del Oro 32
+216 Cuauht⁄moc 32
+217 Chalchihuites 32
+218 Fresnillo 32
+219 Trinidad Garc›a de la Cadena 32
+220 Genaro Codina 32
+221 General Enrique Estrada 32
