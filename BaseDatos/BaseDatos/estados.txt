@@ -1,0 +1,32 @@
+1 Aguascalientes CT
+2 Baja California NW
+3 Baja California Sur NW
+4 Campeche SE
+5 Coahuila de Zaragoza NT
+6 Colima EA
+7 Chiapas ST
+8 Chihuahua NT
+9 Distrito Federal CT
+10 Durango NT
+11 Guanajuato CT
+12 Guerrero SW
+13 Hidalgo CT
+14 Jalisco WT
+15 MÚxico CT
+16 Michoacßn de Ocampo WT
+17 Morelos CT
+18 Nayarit WT
+19 Nuevo Le¾n NE
+20 Oaxaca ST
+21 Puebla CT
+22 QuerÚtaro CT
+23 Quintana Roo SE
+24 San Luis PotosÝ CT
+25 Sinaloa WT
+26 Sonora NW
+27 Tabasco SE
+28 Tamaulipas NE
+29 Tlaxcala CT
+30 Veracruz de Ignacio de la Llave EA
+31 Yucatßn SE
+32 Zacatecas CT
